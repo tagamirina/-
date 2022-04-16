@@ -1,0 +1,80 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.cursorStyle": "line",
+    "editor.insertSpaces": false,
+    "editor.lineNumbers": "on",
+    "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "editor.wordWrap": "off",
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+    "powermode.presets": "flames",
+    "vscode-pets.theme": "forest",
+    "vscode-pets.petType": "rubber-duck",
+    "vscode-pets.petColor": "yellow",
+    "clipring.maxRingItems": 20,
+    "vim.useSystemClipboard": true,
+
+    
+    "files.associations": {
+        "chrono"   : "cpp",
+        "algorithm": "cpp",
+        "*.tcc"    : "cpp",
+        "string"   : "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": true,
+    
+    // 括弧編
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#FF0000",
+        "editorBracketHighlight.foreground2": "#FFBF3F",
+        "editorBracketHighlight.foreground3": "#FFFF00",
+        "editorBracketHighlight.foreground4": "#3FFF3F",
+        "editorBracketHighlight.foreground5": "#3F7FFF",
+        "editorBracketHighlight.foreground6": "#FF7FFF",
+        "editor.lineHighlightBackground": "#de4aff3f",
+        "activityBar.activeBackground": "#93e6fc",
+        "activityBar.activeBorder": "#fa45d4",
+        "activityBar.background": "#93e6fc",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#fa45d4",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#93e6fc",
+        "statusBar.background": "#61dafb",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#2fcefa",
+        "statusBarItem.remoteBackground": "#61dafb",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#61dafb",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#61dafb99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "editor.guides.bracketPairs": "active",
+
+    // インデント編
+    "indentRainbow.colors": [
+        "rgba(128,  64,  64, 0.5)", // 赤
+        "rgba(128,  96,  32, 0.5)", // 橙
+        "rgba(128, 128,  32, 0.5)", // 黄
+        "rgba( 32, 128,  32, 0.5)", // 緑
+        "rgba( 32,  64, 128, 0.5)", // 青 
+        "rgba(128,  64, 128, 0.5)"  // 紫 
+    ],
+    "peacock.color"    : "#61dafb",
+
+    
+    "key"     : "ctrl+v" ,
+    "when"    : "editorFocus" ,
+    "command": "clipring.pasteRingItem",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "C_Cpp.updateChannel": "Insiders",
+    "powermode.explosions.duration": 250,
+    "powermode.enabled": true,
+    "powermode.shake.enabled": false
+
+}
